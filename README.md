@@ -1,4 +1,4 @@
-# Case Study: Cyclic
+# Estudo de Caso: Comportamento de usuários casuais e assinantes anuais da Cyclic
 Estudo de caso de Análise de Dados (Capstone Google Data Analytics)
 
 #### Autor: Lucas Martin Toth
